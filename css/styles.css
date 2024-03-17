@@ -1,0 +1,21 @@
+body {
+  background: #f7e8a5;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.center-text {
+  text-align: center;
+  color: green;
+  margin: 0 10px;
+}
+.center {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
